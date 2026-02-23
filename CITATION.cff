@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Si utiliza este tratado o sus protocolos, por favor cítelo como se indica a continuación."
+authors:
+- family-names: "Rodríguez Barrera"
+  given-names: "Boris"
+  orcid: "https://orcid.org/0009-0004-6583-6439"
+title: "Tratados de Bioanálisis Clínico, Gestión de Calidad e Industria: Compendio de 19 Obras Técnicas"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXX  # (Esto lo actualizaremos cuando Zenodo te dé el número)
+date-released: 2026-02-23
+url: "https://github.com/borisrodriguezbarrera/cv-boris-rodriguez"
+keywords:
+  - Bioanálisis Clínico
+  - Gestión de Calidad
+  - Industria Pesquera
+  - Mejora Continua

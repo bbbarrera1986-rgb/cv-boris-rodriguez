@@ -38,3 +38,9 @@
 
 > [!NOTE]
 > Esta colección representa más de 15 años de experiencia técnica-científica. Todas las obras están disponibles internacionalmente a través de Hotmart.
+---
+### 🛡️ Validación Académica y Contacto
+* **ORCID iD:** [0009-0004-6583-6439](https://orcid.org/0009-0004-6583-6439)
+* **Ubicación:** Puerto Madryn, Argentina
+* **E-mail:** [bbbarrera1986@gmail.com](mailto:bbbarrera1986@gmail.com)
+* **Sitio Web:** [Portafolio Profesional en Google Sites](https://sites.google.com/view/borisrodriguezbarrera)
